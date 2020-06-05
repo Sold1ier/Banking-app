@@ -1,3 +1,3 @@
 # Banking-app
-a simple banking app with java
-made with java
+a simple banking app that made with java
+
